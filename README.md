@@ -44,26 +44,39 @@ I believe technology has no boundaries and continuous learning is an essential p
 
 ---
 
+
 ## 🧩 Tech Stack | Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,react,html,git,github&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,fastapi,react,html,expo,firebase,gcp,git,github&theme=light" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
 ### 💡 Areas of Interest
 
 - 🌐 Backend and API Development
 - 📱 Mobile Application Development
+- ☁️ Cloud Computing
+- 🔥 Backend as a Service (BaaS)
 - ⚙️ Software Engineering
 - 🚀 Technology and Innovation
+
 
 ---
 
