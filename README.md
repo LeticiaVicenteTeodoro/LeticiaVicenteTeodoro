@@ -48,7 +48,6 @@ My interests include software development, APIs, mobile applications, and parall
 
 - Backend and API Development
 - Mobile Application Development
-- Parallel Computing with MPI
 - Software Engineering
 
 ---
@@ -68,16 +67,6 @@ An open API focused on accessing and integrating blood stock information across 
 - Projeto com propósito de impacto social.
 
 🔗 [View Repository](https://github.com/LeticiaVicenteTeodoro/API_aberta-EstoquesdeSangueBR)
-
-### ⚡ Parallel Prime Number Search — MPI
-
-Projeto acadêmico desenvolvido na disciplina de Programação Paralela com MPI.
-
-Academic project developed as part of a Parallel Programming course using MPI.
-
-- Exploração de processamento paralelo.
-- Distribuição de tarefas entre processos.
-- Análise de desempenho e speedup.
 
 ---
 
