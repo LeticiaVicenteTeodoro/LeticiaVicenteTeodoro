@@ -89,8 +89,10 @@ An open API focused on accessing and integrating blood stock information across 
   <a href="https://github.com/LeticiaVicenteTeodoro">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  LinkedIn.com/in/leticia-vicente-teodoro
-  <!-- Add your professional email here -->
+
+  <a href="https://www.linkedin.com/in/leticia-vicente-teodoro/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
